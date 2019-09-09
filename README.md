@@ -10,10 +10,12 @@ npm install
 ```
 
 * 2 Add environment variable
+```
+.env
+|_ PORT= 3000
+```
 
-(.env)
-
-* 3 Run priject
+* 3 Run the project
 
 ```
 npm run dev
